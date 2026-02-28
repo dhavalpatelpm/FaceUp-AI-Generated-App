@@ -1,7 +1,11 @@
 # FaceUp-AI-Generated-App
 
+Try it now on Emergent at: 
 URL : https://app.emergent.sh/share-preview?app=pro-headshot-studio
-<img width="266" height="411" alt="image" src="https://github.com/user-attachments/assets/8bceed31-8b70-44ac-8466-c8ae7e5c1d7f" />
+Your app: https://pro-headshot-studio.preview.emergentagent.com
+
+Try it now on Replit at: 
+URL : https://face-transformer--dhavalpatelsdds.replit.app/
 
 Perfect! ✅ I've successfully optimized the app to generate only 2 variations instead of 4!
 
@@ -30,4 +34,4 @@ Get your 2 professional headshots instantly!
 The system is ready and optimized. Give it a try! 🚀
 
 
-Copy
+<img width="266" height="411" alt="image" src="https://github.com/user-attachments/assets/8bceed31-8b70-44ac-8466-c8ae7e5c1d7f" />
