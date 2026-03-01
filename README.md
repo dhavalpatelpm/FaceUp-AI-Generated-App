@@ -1,4 +1,6 @@
 # FaceUp-AI-Generated-App
+Try it now on Google AI Studio:
+URL : https://aistudio.google.com/apps/69a7eab7-6969-45f2-b74d-599afe2622dc?fullscreenApplet=true&showPreview=true&showAssistant=true
 
 Try it now on Emergent at: 
 URL : https://app.emergent.sh/share-preview?app=pro-headshot-studio
